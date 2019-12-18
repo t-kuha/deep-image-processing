@@ -4,6 +4,7 @@
 
 - DeepISP: Towards Learning an End-to-End Image Processing Pipeline (IEEE TIP 2019): [Paper](https://arxiv.org/abs/1801.06724) / [Dataset](https://www.kaggle.com/knn165897/s7-isp-dataset)
 
+- VisionISP: Repurposing the Image Signal Processor for Computer Vision Applications (ICIP 2019): [IEEE](https://ieeexplore.ieee.org/document/8803607)
 - Deep Camera: A Fully Convolutional Neural Network for Image Signal Processing (ICCV 2019): [Paper](https://arxiv.org/ftp/arxiv/papers/1908/1908.09191.pdf)
 
 ***
