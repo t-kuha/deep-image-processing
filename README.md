@@ -1,4 +1,8 @@
-# deep-image-processing
+# Deep Image Processing
+
+- Deep learning in image processing
+
+***
 
 ## Processing Pipeline
 
@@ -23,6 +27,8 @@
 ***
 
 ## Demosaicing
+
+- Learning Deep Convolutional Networks for Demosaicing: [Website](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Demosaic/) / [Paper](https://arxiv.org/abs/1802.03769)
 
 ***
 
