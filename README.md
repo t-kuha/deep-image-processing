@@ -30,6 +30,8 @@
 
 - Learning Deep Convolutional Networks for Demosaicing: [Website](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Demosaic/) / [Paper](https://arxiv.org/abs/1802.03769)
 
+- Deep Demosaicing using ResNet-Bottleneck Architecture: [Paper](https://www.easychair.org/publications/preprint/NFnj)
+
 ***
 
 ## White Balance
