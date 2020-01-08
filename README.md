@@ -18,6 +18,8 @@
 
 ## Aesthetics
 
+- Neural Aesthetic Image Reviewer: [Paper](https://arxiv.org/abs/1802.10240)
+
 ***
 
 ## Cropping/Framing
@@ -33,8 +35,17 @@
 - Deep Demosaicing using ResNet-Bottleneck Architecture: [Paper](https://www.easychair.org/publications/preprint/NFnj)
 
 - Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution: [Paper](https://arxiv.org/abs/1905.02538) / [GitHub](https://github.com/guochengqian/TENet.git)
+
 ***
 
 ## White Balance
 
+- RAPID: Rating Pictorial Aesthetics using Deep Learning: [Paper](http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ACMMM2014/lu.pdf)
+
+- Image Aesthetics Assessment using Fully Convolutional Neural Networks: [Paper](https://www.iti.gr/~bmezaris/publications/mmm19_lncs11295_1_preprint.pdf)
+
 - Semantic White Balance: Semantic Color Constancy Using Convolutional Neural Network: [paper](https://arxiv.org/pdf/1802.00153.pdf)
+
+- Neural Image Assessment: [Google AI Blog](https://ai.googleblog.com/2017/12/introducing-nima-neural-image-assessment.html) / [Paper](https://arxiv.org/abs/1709.05424)
+
+- A Deep Learning Perspective on Beauty, Sentiment, and Remembrance of Art[Paper](http://fulir.irb.hr/4914/1/CetinicE_DeepLearningIEEEaccess2019_%207_73694.pdf)
