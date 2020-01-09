@@ -14,6 +14,8 @@
 
 - Deep Camera: A Fully Convolutional Neural Network for Image Signal Processing (ICCV 2019): [Paper](https://arxiv.org/ftp/arxiv/papers/1908/1908.09191.pdf)
 
+- DEEP LEARNING for Image and Video Processing: [Slide](http://home.ku.edu.tr/~mtekalp/Tutorial_slides.pdf)
+
 ***
 
 ## Aesthetics
