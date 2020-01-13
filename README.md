@@ -22,9 +22,13 @@
 
 - Neural Aesthetic Image Reviewer: [Paper](https://arxiv.org/abs/1802.10240)
 
+- Neural Image Assessment: [Google AI Blog](https://ai.googleblog.com/2017/12/introducing-nima-neural-image-assessment.html) / [Paper](https://arxiv.org/abs/1709.05424)
+
+- A Deep Learning Perspective on Beauty, Sentiment, and Remembrance of Art[Paper](http://fulir.irb.hr/4914/1/CetinicE_DeepLearningIEEEaccess2019_%207_73694.pdf)
+
 ***
 
-## Cropping/Framing
+## Cropping
 
 - Reliable and Efficient Image Cropping: A Grid Anchor based Approach (CVPR 2019): [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zeng_Reliable_and_Efficient_Image_Cropping_A_Grid_Anchor_Based_Approach_CVPR_2019_paper.pdf) / [GitHub1](https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping.git) / [GitHub2](https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping-Pytorch.git) / [GitHub3](https://github.com/lld533/Grid-Anchor-based-Image-Cropping-Pytorch.git)
 
@@ -40,7 +44,7 @@
 
 ***
 
-## White Balance
+## White Balance/Illuminant Estimation
 
 - RAPID: Rating Pictorial Aesthetics using Deep Learning: [Paper](http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ACMMM2014/lu.pdf)
 
@@ -48,6 +52,8 @@
 
 - Semantic White Balance: Semantic Color Constancy Using Convolutional Neural Network: [paper](https://arxiv.org/pdf/1802.00153.pdf)
 
-- Neural Image Assessment: [Google AI Blog](https://ai.googleblog.com/2017/12/introducing-nima-neural-image-assessment.html) / [Paper](https://arxiv.org/abs/1709.05424)
+***
 
-- A Deep Learning Perspective on Beauty, Sentiment, and Remembrance of Art[Paper](http://fulir.irb.hr/4914/1/CetinicE_DeepLearningIEEEaccess2019_%207_73694.pdf)
+## Denoising
+
+- Dual Illumination Estimation for Robust Exposure Correction: [Paper](https://arxiv.org/pdf/1910.13688.pdf)
