@@ -2,6 +2,8 @@
 
 - Deep learning in image processing
 
+- Similar repo: [deep-imaging](https://github.com/mdelbra/deep-imaging.git)
+
 ***
 
 ## Processing Pipeline
@@ -45,6 +47,8 @@
 ***
 
 ## White Balance/Illuminant Estimation
+
+- Related repo: [Awesome Color Constancy](https://github.com/iamsiddhantsahu/awesome-color-constancy.git)
 
 - RAPID: Rating Pictorial Aesthetics using Deep Learning: [Paper](http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ACMMM2014/lu.pdf)
 
