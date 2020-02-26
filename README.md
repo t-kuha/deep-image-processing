@@ -8,6 +8,8 @@
 
 ## Processing Pipeline
 
+- Replacing Mobile Camera ISP with a Single Deep Learning Model: [Website](http://www.vision.ee.ethz.ch/~ihnatova/pynet.html) / [Paper](https://arxiv.org/abs/2002.05509) / [GitHub](https://github.com/aiff22/PyNET)
+
 - Zoom to Learn, Learn to Zoom (CVPR 2019): [Website](https://people.eecs.berkeley.edu/~cecilia77/project-pages/zoom.html) / [Paper](https://arxiv.org/pdf/1905.05169.pdf) / [GitHub](https://github.com/ceciliavision/zoom-learn-zoom)
 
 - DeepISP: Towards Learning an End-to-End Image Processing Pipeline (IEEE TIP 2019): [Paper](https://arxiv.org/abs/1801.06724) / [Dataset](https://www.kaggle.com/knn165897/s7-isp-dataset)
