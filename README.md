@@ -48,11 +48,11 @@
 
 - Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution: [Paper](https://arxiv.org/abs/1905.02538) / [GitHub](https://github.com/guochengqian/TENet.git)
 
-- [Papers with Code](https://paperswithcode.com/task/demosaicking)
+- [Papers with Code: Demosaicking](https://paperswithcode.com/task/demosaicking)
 
 ***
 
-## White Balance/Illuminant Estimation
+## White Balance/Illuminant Estimation/Color Constancy
 
 - Related repo: [Awesome Color Constancy](https://github.com/iamsiddhantsahu/awesome-color-constancy.git)
 
@@ -61,6 +61,8 @@
 - Image Aesthetics Assessment using Fully Convolutional Neural Networks: [Paper](https://www.iti.gr/~bmezaris/publications/mmm19_lncs11295_1_preprint.pdf)
 
 - Semantic White Balance: Semantic Color Constancy Using Convolutional Neural Network: [paper](https://arxiv.org/pdf/1802.00153.pdf)
+
+- [Papers with Code: Color Constancy](https://paperswithcode.com/task/color-constancy)
 
 ***
 
