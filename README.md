@@ -48,6 +48,8 @@
 
 - Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution: [Paper](https://arxiv.org/abs/1905.02538) / [GitHub](https://github.com/guochengqian/TENet.git)
 
+- [Papers with Code](https://paperswithcode.com/task/demosaicking)
+
 ***
 
 ## White Balance/Illuminant Estimation
