@@ -1,6 +1,6 @@
 # Deep Image Processing
 
-- Deep learning in image processing
+- Deep learning in image processing (especially real-world photography)
 
 - Similar repo: [deep-imaging](https://github.com/mdelbra/deep-imaging.git)
 
