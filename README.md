@@ -10,7 +10,7 @@
 
 - Hardware-in-the-loop End-to-end Optimization of Camera Image Processing Pipelines: [Website](https://www.cs.princeton.edu/~fheide/HardwareInTheLoop-ImageOptimization/) / [Paper](https://www.cs.princeton.edu/~fheide/HardwareInTheLoop-ImageOptimization/images/HardwareInTheLoop_ImageOptimization.pdf)
 
-- Hyperparameter Optimization in Black-box Image Processing using Differentiable Proxies: [Website](Hyperparameter Optimization in Black-box Image Processing using Differentiable Proxies) / [Paper](https://www.cs.princeton.edu/~fheide/ProxyOpt.pdf)
+- Hyperparameter Optimization in Black-box Image Processing using Differentiable Proxies: [Website](https://www.cs.princeton.edu/~fheide/proxyopt) / [Paper](https://www.cs.princeton.edu/~fheide/ProxyOpt.pdf)
 
 - Replacing Mobile Camera ISP with a Single Deep Learning Model: [Website](http://www.vision.ee.ethz.ch/~ihnatova/pynet.html) / [Paper](https://arxiv.org/abs/2002.05509) / [GitHub](https://github.com/aiff22/PyNET)
 
