@@ -8,6 +8,10 @@
 
 ## Processing Pipeline
 
+- Hardware-in-the-loop End-to-end Optimization of Camera Image Processing Pipelines: [Website](https://www.cs.princeton.edu/~fheide/HardwareInTheLoop-ImageOptimization/) / [Paper](https://www.cs.princeton.edu/~fheide/HardwareInTheLoop-ImageOptimization/images/HardwareInTheLoop_ImageOptimization.pdf)
+
+- Hyperparameter Optimization in Black-box Image Processing using Differentiable Proxies: [Website](Hyperparameter Optimization in Black-box Image Processing using Differentiable Proxies) / [Paper](https://www.cs.princeton.edu/~fheide/ProxyOpt.pdf)
+
 - Replacing Mobile Camera ISP with a Single Deep Learning Model: [Website](http://www.vision.ee.ethz.ch/~ihnatova/pynet.html) / [Paper](https://arxiv.org/abs/2002.05509) / [GitHub](https://github.com/aiff22/PyNET)
 
 - Zoom to Learn, Learn to Zoom (CVPR 2019): [Website](https://people.eecs.berkeley.edu/~cecilia77/project-pages/zoom.html) / [Paper](https://arxiv.org/pdf/1905.05169.pdf) / [GitHub](https://github.com/ceciliavision/zoom-learn-zoom)
