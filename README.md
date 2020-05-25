@@ -26,6 +26,8 @@
 
 - DEEP LEARNING for Image and Video Processing: [Slide](http://home.ku.edu.tr/~mtekalp/Tutorial_slides.pdf)
 
+- DSLR-Quality Photos on Mobile Devices with Deep Convolutional Networks (ICCV2017): [Paper](https://arxiv.org/abs/1704.02470) / [Website](http://people.ee.ethz.ch/~ihnatova/)
+
 ***
 
 ## Aesthetics
