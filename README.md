@@ -36,9 +36,11 @@
 
 - Neural Aesthetic Image Reviewer: [Paper](https://arxiv.org/abs/1802.10240)
 
-- Neural Image Assessment: [Google AI Blog](https://ai.googleblog.com/2017/12/introducing-nima-neural-image-assessment.html) / [Paper](https://arxiv.org/abs/1709.05424)
-
 - A Deep Learning Perspective on Beauty, Sentiment, and Remembrance of Art: [Paper](http://fulir.irb.hr/4914/1/CetinicE_DeepLearningIEEEaccess2019_%207_73694.pdf)
+
+- Image Aesthetics Assessment using Fully Convolutional Neural Networks: [Paper](https://www.iti.gr/~bmezaris/publications/mmm19_lncs11295_1_preprint.pdf)
+
+- Neural Image Assessment: [Google AI Blog](https://ai.googleblog.com/2017/12/introducing-nima-neural-image-assessment.html) / [Paper](https://arxiv.org/abs/1709.05424)
 
 - [Papers with Code: Aesthetics Quality Assessment](https://paperswithcode.com/task/aesthetics-quality-assessment)
 
@@ -70,11 +72,11 @@
 
 - Related repo: [Awesome Color Constancy](https://github.com/iamsiddhantsahu/awesome-color-constancy.git)
 
-- RAPID: Rating Pictorial Aesthetics using Deep Learning: [Paper](http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ACMMM2014/lu.pdf)
-
-- Image Aesthetics Assessment using Fully Convolutional Neural Networks: [Paper](https://www.iti.gr/~bmezaris/publications/mmm19_lncs11295_1_preprint.pdf)
-
 - Semantic White Balance: Semantic Color Constancy Using Convolutional Neural Network: [paper](https://arxiv.org/pdf/1802.00153.pdf)
+
+- FC4: Fully Convolutional Color Constancy with Confidence-weighted Pooling (CVPR 2017): [Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_FC4_Fully_Convolutional_CVPR_2017_paper.pdf) / [GitHub](https://github.com/yuanming-hu/fc4)
+
+- RAPID: Rating Pictorial Aesthetics using Deep Learning: [Paper](http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ACMMM2014/lu.pdf)
 
 - [Papers with Code: Color Constancy](https://paperswithcode.com/task/color-constancy)
 
