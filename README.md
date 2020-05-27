@@ -28,6 +28,8 @@
 
 - DSLR-Quality Photos on Mobile Devices with Deep Convolutional Networks (ICCV2017): [Paper](https://arxiv.org/abs/1704.02470) / [Website](http://people.ee.ethz.ch/~ihnatova/)
 
+- Automatic Photo Adjustment Using Deep Neural Networks (ACM Transactions on Graphics, 2015): [Paper](https://arxiv.org/abs/1412.7725) / [GitHub](https://github.com/stephenyan1231/dl-image-enhance) / [Website](https://sites.google.com/site/homepagezhichengyan/home/dl_img_adjust)
+
 ***
 
 ## Aesthetics
