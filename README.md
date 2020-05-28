@@ -42,6 +42,8 @@
 
 - Neural Image Assessment: [Google AI Blog](https://ai.googleblog.com/2017/12/introducing-nima-neural-image-assessment.html) / [Paper](https://arxiv.org/abs/1709.05424)
 
+- RAPID: Rating Pictorial Aesthetics using Deep Learning: [Paper](http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ACMMM2014/lu.pdf)
+
 - [Papers with Code: Aesthetics Quality Assessment](https://paperswithcode.com/task/aesthetics-quality-assessment)
 
 ***
@@ -75,8 +77,6 @@
 - Semantic White Balance: Semantic Color Constancy Using Convolutional Neural Network: [paper](https://arxiv.org/pdf/1802.00153.pdf)
 
 - FC4: Fully Convolutional Color Constancy with Confidence-weighted Pooling (CVPR 2017): [Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_FC4_Fully_Convolutional_CVPR_2017_paper.pdf) / [GitHub](https://github.com/yuanming-hu/fc4)
-
-- RAPID: Rating Pictorial Aesthetics using Deep Learning: [Paper](http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ACMMM2014/lu.pdf)
 
 - [Papers with Code: Color Constancy](https://paperswithcode.com/task/color-constancy)
 
