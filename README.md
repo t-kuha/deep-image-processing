@@ -8,6 +8,8 @@
 
 ## Processing Pipeline
 
+- Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline (CVPR 2020):  [WebSite](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/SingleHDR) / [Paper](https://arxiv.org/abs/2004.01179) / [GitHub](https://github.com/alex04072000/SingleHDR)
+
 - Hardware-in-the-loop End-to-end Optimization of Camera Image Processing Pipelines: [Website](https://www.cs.princeton.edu/~fheide/HardwareInTheLoop-ImageOptimization/) / [Paper](https://www.cs.princeton.edu/~fheide/HardwareInTheLoop-ImageOptimization/images/HardwareInTheLoop_ImageOptimization.pdf)
 
 - Hyperparameter Optimization in Black-box Image Processing using Differentiable Proxies: [Website](https://www.cs.princeton.edu/~fheide/proxyopt) / [Paper](https://www.cs.princeton.edu/~fheide/ProxyOpt.pdf)
@@ -71,6 +73,12 @@
 ***
 
 ## White Balance/Illuminant Estimation/Color Constancy
+
+- A Multi-Hypothesis Approach to Color Constancy: [Paper](https://arxiv.org/pdf/2002.12896.pdf) / [GitHub](https://github.com/huawei-noah/multi_hyp_cc)
+
+- Deep White-Balance Editing: [Paper](https://arxiv.org/abs/2004.01354) / [GitHub](https://github.com/mahmoudnafifi/Deep_White_Balance)
+
+- Formulating Camera-Adaptive Color Constancy as a Few-shot Meta-Learning Problem: [Paper](https://arxiv.org/pdf/1811.11788.pdf)
 
 - Related repo: [Awesome Color Constancy](https://github.com/iamsiddhantsahu/awesome-color-constancy.git)
 
