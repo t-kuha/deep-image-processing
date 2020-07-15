@@ -68,6 +68,11 @@
 
 - Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution: [Paper](https://arxiv.org/abs/1905.02538) / [GitHub](https://github.com/guochengqian/TENet.git)
 
+- Learning to Compose with Professional Photographs on the Web (ACM Multimedia 2017):
+[Paper](https://arxiv.org/abs/1702.00503) / [GitHub](https://github.com/yiling-chen/view-finding-network) / [GitHub](https://github.com/remorsecs/pytorch-view-finding-network)
+
+- Quantitative Analysis of Automatic Image Cropping Algorithms: A Dataset and Comparative Study (IEEE WACV 2017): [Website](https://yiling-chen.github.io/flickr-cropping-dataset/) / [Paper](http://arxiv.org/abs/1701.01480) / [GitHub](https://github.com/yiling-chen/flickr-cropping-dataset)
+
 - [Papers with Code: Demosaicking](https://paperswithcode.com/task/demosaicking)
 
 ***
