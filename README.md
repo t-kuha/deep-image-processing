@@ -28,7 +28,11 @@
 
 - DEEP LEARNING for Image and Video Processing: [Slide](http://home.ku.edu.tr/~mtekalp/Tutorial_slides.pdf)
 
-- DSLR-Quality Photos on Mobile Devices with Deep Convolutional Networks (ICCV2017): [Paper](https://arxiv.org/abs/1704.02470) / [Website](http://people.ee.ethz.ch/~ihnatova/)
+- Modelling the Scene Dependent Imaging in Cameras with a Deep Neural Network (ICCV 2017): [Paper](http://snam.ml/assets/publication/radiometricCal_iccv17/radiometricCal_iccv17.pdf) / [Supplementary Material](http://snam.ml/assets/publication/radiometricCal_iccv17/radiometricCal_iccv17_supp.pdf)
+
+- DSLR-Quality Photos on Mobile Devices with Deep Convolutional Networks (ICCV 2017): [Paper](https://arxiv.org/abs/1704.02470) / [Website](http://people.ee.ethz.ch/~ihnatova/)
+
+- Deep Semantics-Aware Photo Adjustment: [Paper](https://arxiv.org/abs/1706.08260)
 
 - Automatic Photo Adjustment Using Deep Neural Networks (ACM Transactions on Graphics, 2015): [Paper](https://arxiv.org/abs/1412.7725) / [GitHub](https://github.com/stephenyan1231/dl-image-enhance) / [Website](https://sites.google.com/site/homepagezhichengyan/home/dl_img_adjust)
 
@@ -95,6 +99,8 @@
 
 ***
 
-## Denoising
+## Denoising/Noise Modeling
 
 - Dual Illumination Estimation for Robust Exposure Correction: [Paper](https://arxiv.org/pdf/1910.13688.pdf)
+
+- A Holistic Approach to Cross-Channel Image Noise Modeling and its Application to Image Denoising (CVPR 2016): [Paper](http://snam.ml/assets/publication/ccnoise_cvpr16/ccnoise_cvpr16.pdf) / [Supplementary Material](http://snam.ml/assets/publication/ccnoise_cvpr16/ccnoise_cvpr16_supp.pdf) / [Website](http://snam.ml/research/ccnoise/) / [GitHub](https://github.com/woozzu/ccnoise)
