@@ -91,13 +91,13 @@
 
 - Formulating Camera-Adaptive Color Constancy as a Few-shot Meta-Learning Problem: [Paper](https://arxiv.org/pdf/1811.11788.pdf)
 
-- Related repo: [Awesome Color Constancy](https://github.com/iamsiddhantsahu/awesome-color-constancy.git)
-
-- Semantic White Balance: Semantic Color Constancy Using Convolutional Neural Network: [paper](https://arxiv.org/pdf/1802.00153.pdf)
+- Semantic White Balance: Semantic Color Constancy Using Convolutional Neural Network: [Paper](https://arxiv.org/pdf/1802.00153.pdf)
 
 - FC4: Fully Convolutional Color Constancy with Confidence-weighted Pooling (CVPR 2017): [Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_FC4_Fully_Convolutional_CVPR_2017_paper.pdf) / [GitHub](https://github.com/yuanming-hu/fc4)
 
 - [Papers with Code: Color Constancy](https://paperswithcode.com/task/color-constancy)
+
+- Related repo: [Awesome Color Constancy](https://github.com/iamsiddhantsahu/awesome-color-constancy.git)
 
 ***
 
