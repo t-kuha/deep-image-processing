@@ -3,6 +3,7 @@
 - Deep learning in image processing (especially real-world photography)
 
 - Similar repo: [deep-imaging](https://github.com/mdelbra/deep-imaging.git)
+  - Seems not maintained anymore
 
 ***
 
@@ -37,6 +38,14 @@
 - Deep Semantics-Aware Photo Adjustment: [Paper](https://arxiv.org/abs/1706.08260)
 
 - Automatic Photo Adjustment Using Deep Neural Networks (ACM Transactions on Graphics, 2015): [Paper](https://arxiv.org/abs/1412.7725) / [GitHub](https://github.com/stephenyan1231/dl-image-enhance) / [Website](https://sites.google.com/site/homepagezhichengyan/home/dl_img_adjust)
+
+***
+
+## Image Enhancement
+
+- CURL: Neural Curve Layers for Image Enhancemen: [Paper](https://arxiv.org/pdf/1911.13175.pdf) / [GitHub](https://github.com/sjmoran/CURL)
+
+- Deep Photo Enhancer: Unpaired Learning for Image Enhancement from Photographs with GANs (CVPR 2018): [GitHub](https://github.com/nothinglo/Deep-Photo-Enhancer)
 
 ***
 
@@ -89,6 +98,8 @@
 
 - Deep White-Balance Editing: [Paper](https://arxiv.org/abs/2004.01354) / [GitHub](https://github.com/mahmoudnafifi/Deep_White_Balance)
 
+- Dual Illumination Estimation for Robust Exposure Correction: [Paper](https://arxiv.org/pdf/1910.13688.pdf)
+
 - Formulating Camera-Adaptive Color Constancy as a Few-shot Meta-Learning Problem: [Paper](https://arxiv.org/pdf/1811.11788.pdf)
 
 - Semantic White Balance: Semantic Color Constancy Using Convolutional Neural Network: [Paper](https://arxiv.org/pdf/1802.00153.pdf)
@@ -103,6 +114,17 @@
 
 ## Denoising/Noise Modeling
 
-- Dual Illumination Estimation for Robust Exposure Correction: [Paper](https://arxiv.org/pdf/1910.13688.pdf)
+- CycleISP: Real Image Restoration via Improved Data Synthesis (CVPR 2020): [Paper](https://arxiv.org/abs/2003.07761) / [GitHub](https://github.com/swz30/CycleISP)
+
+- Generating Training Data for Denoising Real RGB Images
+via Camera Pipeline Simulation: [Website](https://people.csail.mit.edu/tiam/camera_sim/)
 
 - A Holistic Approach to Cross-Channel Image Noise Modeling and its Application to Image Denoising (CVPR 2016): [Paper](http://snam.ml/assets/publication/ccnoise_cvpr16/ccnoise_cvpr16.pdf) / [Supplementary Material](http://snam.ml/assets/publication/ccnoise_cvpr16/ccnoise_cvpr16_supp.pdf) / [Website](http://snam.ml/research/ccnoise/) / [GitHub](https://github.com/woozzu/ccnoise)
+
+***
+
+## Datasets
+
+- MIT-Adobe FiveK Dataset: [Website](https://data.csail.mit.edu/graphics/fivek/)
+
+- Smartphone Image Denoising Dataset: [Website](https://www.eecs.yorku.ca/~kamel/sidd/index.php)
