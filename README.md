@@ -2,7 +2,7 @@
 
 - Deep learning in image processing (especially real-world photography)
 
-- Similar repo: [deep-imaging](https://github.com/mdelbra/deep-imaging.git)
+- Similar repos: [deep-imaging](https://github.com/mdelbra/deep-imaging.git) & [Neural Networks for Low Level Image Processing](https://github.com/holovincent/Neural-Networks-for-Low-Level-Image-Processing)
   - Seems not maintained anymore
 
 ***
