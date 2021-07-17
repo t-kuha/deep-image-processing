@@ -65,11 +65,13 @@
 
 ***
 
-## Cropping
+## Cropping/Composition
+
+- Composing Photos Like a Photographer (CVPR 2021): [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_Composing_Photos_Like_a_Photographer_CVPR_2021_paper.pdf) / [Supplement](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Hong_Composing_Photos_Like_CVPR_2021_supplemental.pdf)
 
 - Reliable and Efficient Image Cropping: A Grid Anchor based Approach (CVPR 2019): [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zeng_Reliable_and_Efficient_Image_Cropping_A_Grid_Anchor_Based_Approach_CVPR_2019_paper.pdf) / [GitHub1](https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping.git) / [GitHub2](https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping-Pytorch.git) / [GitHub3](https://github.com/lld533/Grid-Anchor-based-Image-Cropping-Pytorch.git)
 
-- [Speedy Neural Networks for Smart Auto-Cropping of Images](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/Smart-Auto-Cropping-of-Images.html)
+- Speedy Neural Networks for Smart Auto-Cropping of Images: [Website](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/Smart-Auto-Cropping-of-Images.html)
 
 - [Papers with Code: Image Cropping](https://paperswithcode.com/task/image-cropping)
 
