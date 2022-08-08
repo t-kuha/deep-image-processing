@@ -41,6 +41,12 @@
 
 ***
 
+## Exposure Correction
+
+- Learning Multi-Scale Photo Exposure Correction: [Paper](https://arxiv.org/abs/2003.11596) / [GitHub](https://github.com/mahmoudnafifi/Exposure_Correction) / [PyTorch version](https://github.com/LZ-CH/Exposure_Correction-pytorch)
+
+***
+
 ## Image Enhancement
 
 - CURL: Neural Curve Layers for Image Enhancemen: [Paper](https://arxiv.org/pdf/1911.13175.pdf) / [GitHub](https://github.com/sjmoran/CURL)
