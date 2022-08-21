@@ -57,6 +57,10 @@
 
 ## Aesthetics
 
+- Similar GitHub repo: [Awesome Image Aesthetic Assessment and Cropping](https://github.com/bcmi/Awesome-Aesthetic-Evaluation-and-Cropping)
+
+- Composition and Style Attributes Guided Image Aesthetic Assessment: [Paper](https://arxiv.org/abs/2111.04647)
+
 - Neural Aesthetic Image Reviewer: [Paper](https://arxiv.org/abs/1802.10240)
 
 - A Deep Learning Perspective on Beauty, Sentiment, and Remembrance of Art: [Paper](http://fulir.irb.hr/4914/1/CetinicE_DeepLearningIEEEaccess2019_%207_73694.pdf)
