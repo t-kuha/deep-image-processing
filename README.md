@@ -135,6 +135,12 @@ via Camera Pipeline Simulation: [Website](https://people.csail.mit.edu/tiam/came
 
 ***
 
+## Reversion (RGB -> RAW)
+
+- Learning sRGB-to-Raw-RGB De-rendering with Content-Aware Metadata (CVPR 2022): [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Nam_Learning_sRGB-to-Raw-RGB_De-Rendering_With_Content-Aware_Metadata_CVPR_2022_paper.pdf) / [GitHub](https://github.com/SamsungLabs/content-aware-metadata)
+
+***
+
 ## Datasets
 
 - MIT-Adobe FiveK Dataset: [Website](https://data.csail.mit.edu/graphics/fivek/)
