@@ -69,6 +69,8 @@
 
 - Neural Image Assessment: [Google AI Blog](https://ai.googleblog.com/2017/12/introducing-nima-neural-image-assessment.html) / [Paper](https://arxiv.org/abs/1709.05424)
 
+- Personalized Image Aesthetics: [Paper](https://openaccess.thecvf.com/content_iccv_2017/html/Ren_Personalized_Image_Aesthetics_ICCV_2017_paper.html) / [GitHub](https://github.com/alanspike/personalizedImageAesthetics)
+
 - RAPID: Rating Pictorial Aesthetics using Deep Learning: [Paper](http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ACMMM2014/lu.pdf)
 
 - [Papers with Code: Aesthetics Quality Assessment](https://paperswithcode.com/task/aesthetics-quality-assessment)
