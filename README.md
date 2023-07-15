@@ -110,6 +110,8 @@
 
 ## White Balance/Illuminant Estimation/Color Constancy
 
+- Object-based color constancy in a deep neural network (JOSA A 2023): [Paper](https://opg.optica.org/josaa/fulltext.cfm?uri=josaa-40-3-A48&id=525626)
+
 - A Multi-Hypothesis Approach to Color Constancy: [Paper](https://arxiv.org/pdf/2002.12896.pdf) / [GitHub](https://github.com/huawei-noah/multi_hyp_cc)
 
 - Deep White-Balance Editing: [Paper](https://arxiv.org/abs/2004.01354) / [GitHub](https://github.com/mahmoudnafifi/Deep_White_Balance)
