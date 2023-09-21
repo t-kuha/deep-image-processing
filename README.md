@@ -89,6 +89,8 @@
 
 - [Papers with Code: Image Cropping](https://paperswithcode.com/task/image-cropping)
 
+- Similar repo: [Awesome-Aesthetic-Evaluation-and-Cropping](https://github.com/bcmi/Awesome-Aesthetic-Evaluation-and-Cropping)
+
 ***
 
 ## Demosaicing
